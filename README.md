@@ -4,10 +4,14 @@ I'm now heading to install High Sierra on my old 2012. This is HackInTosh!!  !!I
 
 My Specs (Laptop):
    
-   Intel Pentium B960 Sandy Bridge 2.20 GHz No VT-x No Vt-d BIOS has nearly nothing (expect the Graphic Mode) with Intel HD Graphics 2000 128MB VRAM
+   Intel Pentium B960 Sandy Bridge 2.20 GHz No VT-x No Vt-d BIOS has pretty much nothing (expect the Graphic Mode) with Intel HD Graphics 2000 128MB VRAM
+   
    RAM 6GB DDR3 4 Slot RAM 1 Slot 2GB 1 Slot 4GB 
+   
    nVIDIA Gefore GT 620M 1GB VRAM
+   
    Wifi Atheros AR5B125 AR9485 
+   
    ACER Aspire E1-531G from 2011 has both UEFI and Legacy support !!gg!!
 
 
